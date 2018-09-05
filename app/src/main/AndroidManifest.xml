@@ -18,18 +18,20 @@
         </activity>
         <activity android:name=".ArticlePages" />
         <activity android:name=".Search" />
-        <activity android:name=".DiagnoseOneself"></activity>
-        <activity android:name=".HomePage"/>
+        <activity android:name=".DiagnoseOneself" />
+        <activity android:name=".HomePage" />
         <activity android:name=".MessageListFragment" />
         <activity android:name=".MessageListFragmentPagerAdepter" />
         <activity android:name=".MessageActivity" />
         <activity android:name=".MessageContent" />
-        <activity android:name=".CalendarActivity"></activity>
+        <activity android:name=".CalendarActivity" />
         <activity android:name=".SelectTypeActivity" />
         <activity android:name=".DaysActivity" />
         <activity android:name=".DurationActivity" />
-        <activity android:name=".LogActivity"></activity>
-        <activity android:name=".RegisterInformation"/>
+        <activity android:name=".LogActivity" />
+        <activity android:name=".RegisterInformation" />
+        <activity android:name=".CuteActivity" />
+        <activity android:name=".PortraittActivity"></activity>
     </application>
 
 </manifest>
