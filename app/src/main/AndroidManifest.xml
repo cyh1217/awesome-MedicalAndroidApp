@@ -31,7 +31,6 @@
         <activity android:name=".LogActivity" />
         <activity android:name=".RegisterInformation" />
         <activity android:name=".CuteActivity" />
-        <activity android:name=".PortraittActivity"></activity>
     </application>
 
 </manifest>
